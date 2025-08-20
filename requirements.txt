@@ -1,0 +1,13 @@
+# Environment Variable Management
+python-dotenv
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Vector Database
+faiss-cpu
+
+langchain-community
+youtube-transcript-api
+tiktoken
